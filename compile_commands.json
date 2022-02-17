@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone",
+  "command": "/usr/bin/CC.exe  -I\"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone\" -I\"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/include\" -isystem /mingw64/include -g -std=c++11 -o CMakeFiles/Pong.dir/src/main.cpp.obj -c \"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/src/main.cpp\"",
+  "file": "/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/src/main.cpp"
+},
+{
+  "directory": "/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone",
+  "command": "/usr/bin/CC.exe  -I\"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone\" -I\"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/include\" -isystem /mingw64/include -g -std=c++11 -o CMakeFiles/Pong.dir/src/game.cpp.obj -c \"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/src/game.cpp\"",
+  "file": "/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/src/game.cpp"
+},
+{
+  "directory": "/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone",
+  "command": "/usr/bin/CC.exe  -I\"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone\" -I\"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/include\" -isystem /mingw64/include -g -std=c++11 -o CMakeFiles/Pong.dir/src/game/main_menu.cpp.obj -c \"/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/src/game/main_menu.cpp\"",
+  "file": "/c/Users/kutia/documents/development shit lol/prj/very shitty pong clone/src/game/main_menu.cpp"
+}
+]
