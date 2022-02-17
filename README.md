@@ -9,3 +9,7 @@ I'm a lil dumb boy.
 # The stuff that it uses lmfao
 
 It uses SFML and that's it really.
+
+# Conclusion
+
+Pull requests are very, and I mean **very** welcome! Please fix my stupid, bad code if you want to lmao.
